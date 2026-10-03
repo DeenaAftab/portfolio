@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 610" preserveAspectRatio="xMidYMid slice">
+<rect width="1440" height="610" fill="#fff"/>
+<g fill="none" stroke-linecap="round" opacity=".28">
+<path d="M-20 120 C 250 40, 450 260, 700 230 S 1150 80, 1460 330" stroke="#6b5a45" stroke-width="34"/>
+<path d="M-20 260 C 250 330, 450 90, 700 190 S 1150 360, 1460 160" stroke="#a37a3f" stroke-width="34"/>
+<path d="M-20 380 C 250 450, 450 260, 700 380 S 1150 500, 1460 430" stroke="#6b5a45" stroke-width="30"/>
+</g></svg>
