@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "name": "Deena Aftab",
+    "email": "deenaaftab88@gmail.com",
+    "phone": "03352260926"
+  },
+  "home": {
+    "links": {
+      "instagram": "",
+      "community": "",
+      "contact": "",
+      "register": ""
+    },
+    "percent": "85.7",
+    "note": "Top grade results for 2026, shared with student permission.",
+    "ticker1": [
+      "Student 016 (9700) | A*",
+      "Haniya Irfan (5090) | A",
+      "Student 017 (9700) | A",
+      "Alishba Faheem (0610) | A",
+      "Student 018 (9700) | A",
+      "Zoya Tariq (5090) | A",
+      "Student 019 (9700) | A*",
+      "Abeer A2 (9700) | A",
+      "Student 020 (9700) | A",
+      "Fariha Abid A2 (9700) | A",
+      "Jaweria (0610) | A*"
+    ],
+    "ticker2": [
+      "Muzna (9700) | A*",
+      "Student 021 (5090) | A",
+      "Mehak (0610) | A",
+      "Student 022 (9700) | A*",
+      "M. Adnan (9700) | A",
+      "Student 023 (5090) | A",
+      "Hunaiza (0610) | A",
+      "Student 024 (9700) | A",
+      "Wahib A2 (9700) | A",
+      "Student 025 (5090) | B",
+      "Aisha A2 (9700) | A*",
+      "Student 026 (0610) | A",
+      "Aun (9700) | A",
+      "Student 027 (9700) | A*"
+    ]
+  },
+  "courses": {
+    "title": "Biology Courses",
+    "intro": "Our programmes are built for Cambridge exam success — not generic lessons. Every class is examiner-aligned, with checked work, feedback, and progress tracking.",
+    "cta_text": "**Want checked copies, personalised feedback, and progress tracking?** Start with the *free resources*, then move into the guided batch for structure, accountability, and examiner-style training.",
+    "cta_label": "Free Resources",
+    "cta_link": "resources.html",
+    "enroll_link": "",
+    "text_link": "",
+    "items": [
+      {
+        "title": "O Level Biology (5090)",
+        "desc": "A structured, rubric-driven programme for Cambridge O Level Biology. Students learn **exam-style answer writing, data handling, and logical response building** through targeted past paper practice and examiner-aligned drills."
+      },
+      {
+        "title": "IGCSE Biology (0610)",
+        "desc": "A clarity-focused programme for Cambridge IGCSE Biology. We strengthen learning through **diagram-based explanations, experimental practice,** and rubric-aligned worksheets with feedback."
+      },
+      {
+        "title": "AS Level Biology (9700)",
+        "desc": "An advanced foundation programme for Cambridge AS Biology. Students sharpen structured **answer writing, data interpretation, and exam logic** through timed practice, examiner reports, and rubric-driven drills."
+      },
+      {
+        "title": "A2 Level Biology (9700)",
+        "desc": "An advanced evaluation programme for Cambridge A2 Biology. Students master **critical analysis, planning experiments, and writing examiner-style responses** with mentorship, mock exams, and targeted feedback to reach A*/A."
+      }
+    ]
+  },
+  "resources": {
+    "title": "Resources",
+    "intro": "Notes, Topicals, Yearlies, Scripts, Marking Schemes, and MCQs — all arranged into a clear pathway so you can practise step-by-step, instead of scrolling through scattered files.",
+    "features": [
+      {
+        "icon": "community",
+        "title": "Community",
+        "desc": "Lesson-style updates, exam logic & past paper queries — built to complement the materials below.",
+        "label": "Join",
+        "link": ""
+      },
+      {
+        "icon": "graduate",
+        "title": "Batch Check",
+        "desc": "**Are you ready for the O/N 26 batch?** Run the readiness check. Score 80% or more and you’re set for Oct/Nov.",
+        "label": "Check",
+        "link": ""
+      },
+      {
+        "icon": "document",
+        "title": "Level Up",
+        "desc": "Free resources help you practice. The **guided program helps you improve.** Book your demo here.",
+        "label": "Reserve Demo",
+        "link": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Start Your Practice.",
+        "items": [
+          {
+            "title": "Command Words 9700",
+            "desc": "Verbs in exam questions that tell students **exactly what skill is required.**",
+            "label": "Open",
+            "link": ""
+          },
+          {
+            "title": "AS Candidate Response 9700",
+            "desc": "See how students answered and why **marks were given** by examiner.",
+            "label": "Open",
+            "link": ""
+          },
+          {
+            "title": "AS Exam Checklist 9700",
+            "desc": "Your essentials for **exam readiness** in one place. Check where you stand.",
+            "label": "Open",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  }
+}
